@@ -57,8 +57,8 @@ ul {
 
 ul li {
     list-style-type: none;
-    margin: 0 20px;
-    font-size: 40px;
+    margin: 0 150px;
+    font-size: 50px;
 }
 
 ul li:hover {
